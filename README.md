@@ -55,9 +55,9 @@ cd <repository-folder>
 ## Configuration
 The following parameters can be configured:
 
-- ALERT_THRESHOLD: Temperature (in Celsius) above which an alert is triggered.
-- CONSECUTIVE_ALERTS: Number of consecutive readings above the threshold to trigger an alert.
-- INTERVAL: Time interval (in seconds) between data fetches (default is 5 minutes).
+- **ALERT_THRESHOLD**: Temperature (in Celsius) above which an alert is triggered.
+- **CONSECUTIVE_ALERTS**: Number of consecutive readings above the threshold to trigger an alert.
+- **INTERVAL**: Time interval (in seconds) between data fetches (default is 5 minutes).
 
 ## Usage
 
