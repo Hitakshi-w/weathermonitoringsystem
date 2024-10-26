@@ -63,7 +63,7 @@ The following parameters can be configured:
 
 # Run the Application
 ```bash
-streamlit run weather_monitor.py
+streamlit run app.py
 ```
 # Access the Streamlit Dashboard
 Open your browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
