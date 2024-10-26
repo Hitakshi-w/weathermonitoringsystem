@@ -50,7 +50,7 @@ cd <repository-folder>
 ```
 # Obtain an API Key from OpenWeatherMap
 1. Sign up at OpenWeatherMap and create an API key.
-2. Replace `'your_api_key'` in the code with your actual API key.
+2. Replace `your_api_key` in the code with your actual API key.
 
 ## Configuration
 The following parameters can be configured:
@@ -63,7 +63,7 @@ The following parameters can be configured:
 
 # Run the Application
 ```bash
-`streamlit run weather_monitor.py`
+streamlit run weather_monitor.py
 ```
 # Access the Streamlit Dashboard
 Open your browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
