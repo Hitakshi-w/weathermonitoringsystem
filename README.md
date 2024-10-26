@@ -40,14 +40,14 @@ To run this application, ensure the following dependencies are installed:
 You can install the Python packages using the following:
 ```bash
 pip install sqlite3 requests pandas streamlit
-
+```
 ## Setup
 
 ### Clone the Repository
 ```bash
 git clone <repository-url>
 cd <repository-folder>
-
+```
 # Obtain an API Key from OpenWeatherMap
 1. Sign up at OpenWeatherMap and create an API key.
 2. Replace 'your_api_key' in the code with your actual API key.
@@ -62,8 +62,9 @@ The following parameters can be configured:
 ## Usage
 
 # Run the Application
+```bash
 `streamlit run weather_monitor.py`
-
+```
 # Access the Streamlit Dashboard
 Open your browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
 
