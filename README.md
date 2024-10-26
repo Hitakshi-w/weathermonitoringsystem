@@ -50,7 +50,7 @@ cd <repository-folder>
 ```
 # Obtain an API Key from OpenWeatherMap
 1. Sign up at OpenWeatherMap and create an API key.
-2. Replace 'your_api_key' in the code with your actual API key.
+2. Replace `'your_api_key'` in the code with your actual API key.
 
 ## Configuration
 The following parameters can be configured:
