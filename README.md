@@ -71,6 +71,9 @@ Open your browser and navigate to the URL provided by Streamlit (usually http://
 # Interact with the Dashboard
 View live weather data, daily summaries, and alerts.
 
+# Demo
+https://github.com/user-attachments/assets/b3361f61-be8d-42dd-a11f-fc59fe3a357b
+
 
 
 
